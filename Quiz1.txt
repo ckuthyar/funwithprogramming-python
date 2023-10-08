@@ -1,0 +1,5 @@
+Washington DC:What is the capital of USA ?
+London:Whatis the capital of UK?
+Paris:What is the capital of France?
+Rome:What is the capital of Italy?
+New Delhi:What is the capital of India?

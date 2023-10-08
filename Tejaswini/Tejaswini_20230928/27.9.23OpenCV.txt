@@ -1,0 +1,10 @@
+I've used Planets' images in for these programs and have attached all the images.
+
+1. opcv.py is about duplicating the image
+2. 3cv.py is about concatenating 2 images vertically using axis=0
+3. 4cv.py is about concatenating 9 images horizontally using axis=1
+4. 6cv.py is about stacking 9 images in 3*3(rows and columns) using 
+   the function hstack from the library numpy
+5. 7cv.py is about stacking 9 images in 3*3 using the cv2.hconcat function from the cv2 library
+6. 8cv.py is about resizing the images using the function cv2.resize 
+   without having to resize every image manually(I'm unable to do this one, need help)

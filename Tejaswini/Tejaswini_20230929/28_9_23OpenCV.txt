@@ -1,0 +1,19 @@
+This assignment is to make a text file which takes the photo files directly via program(using os module)
+instead of updating it manually everytime.
+This text file can be used for many other programs, it's time saving.
+
+1. We import os module and use it to get the files present in the directory
+2. Create 2 lists- list1 & list2
+3. Append the files in directory to list1
+4. Now use for loop and if condition to check which files are photos and which aren't
+5. We'll have to use else as well because the extention of the photos can be .jpg', '.jpeg', '.png',
+   now append files with these extentions to list2.
+6. Now name the text file in which you want to save.
+7. Open the file and write.
+
+
+
+
+
+
+
